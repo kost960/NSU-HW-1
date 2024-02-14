@@ -1,3 +1,2 @@
-print('Как вас зовут?')
-name = input()
-print('Здравствуйте,',name)
+name = input("Как вас зовут? ")
+print(f'Здравствуйте, {name}')
